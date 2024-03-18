@@ -1,4 +1,4 @@
-<a name="_wgnjikh4mzes"></a>Assignment: Architectural Decisions 
+﻿<a name="_wgnjikh4mzes"></a>Assignment: Architectural Decisions 
 
 By: Farhan Batada, Sarah Tenebro  
 # <a name="_76d9j8v04v5u"></a>Scenario 1 
